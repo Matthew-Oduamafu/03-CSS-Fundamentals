@@ -1,3 +1,13 @@
+* {
+  /* border-top: 10px solid #1098ad;  */
+}
+
+body {
+  color: #444;
+  font-family: sans-serif;
+  border-top: 10px solid #1098ad;
+}
+
 h1,
 h2,
 h3,
@@ -64,7 +74,7 @@ li {
 }
 
 .main-header {
-  background-color: #f7f7f7;
+  background-color: #f7f7f777;
 }
 
 aside {
@@ -135,3 +145,7 @@ a:active {
 footer p {
   color: green !important;
 } */
+
+nav a:link {
+  font-size: 18px;
+}
