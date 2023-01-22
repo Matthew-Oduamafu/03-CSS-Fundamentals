@@ -138,6 +138,9 @@ li {
 .related {
   list-style: none;
 }
+nav {
+  /* text-align: center; */
+}
 nav a:link {
   font-size: 18px;
 }
